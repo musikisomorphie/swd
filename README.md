@@ -29,4 +29,6 @@ Trailerfaces sample:
 ### SWGAN: remain updated
        
 
-### PG-SWGAN: remain updated
+### PG-SWGAN-3D: remain updated
+Trailerfaces generation sample:
+![PG-SWGAN-3D](https://github.com/musikisomorphie/swd/blob/master/pgswgan_3d.jpg)
