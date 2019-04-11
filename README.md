@@ -14,7 +14,7 @@ This repo has been successfully tested on **tensorflow 1.12, cuda 9.0**.
 * For the training data such as Cifar10, CelebA, CelebA-HQ, LSUN etc download them on the official website accordingly.
 
 * [Trailerfaces (Google Drive remain updated)](https://github.com/musikisomorphie/swd/)
-  * The dataset contains approximately 200,000 individual clips of various facial expressions, where the faces are cropped with 256x256 resolution from about 6,000 Hollywood movie trailers on YouTube. We convert them to tfrecord with resolutions range from 4x4 to 256x256. More about the data processing please see [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf). 
+  * The dataset contains approximately 200,000 individual clips of various facial expressions, where the faces are cropped with 256x256 resolution from about 6,000 high resolution movie trailers on YouTube. We convert them to tfrecord with resolutions range from 4x4 to 256x256. More about the data processing please see [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf). 
 
 Trailerfaces sample:
 ![Trailerfaces sample](https://github.com/musikisomorphie/swd/blob/master/trailer_faces_samples.png)
@@ -26,9 +26,10 @@ Trailerfaces sample:
   * Alternatively, you could also use the binary files directly, which is compatabile with **cuda 9.0**.
   
   
-### SWGAN: no specific requirements as SWAE.
+### SWGAN: remain updated
        
 
+### PG-SWGAN: remain updated
 
 
 
