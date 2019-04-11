@@ -30,7 +30,3 @@ Trailerfaces sample:
        
 
 ### PG-SWGAN: remain updated
-
-
-
-
