@@ -34,7 +34,6 @@ Trailerfaces sample:
 ![PG-SWGAN-3D](https://github.com/musikisomorphie/swd/blob/master/pgswgan_3d.jpg)
 
 * More video comparison, see the following youtube links:
-
- * PG-SWGAN-3D VS PG-WGAN-3D: See [video1](https://www.youtube.com/watch?v=BvIJk01r9tw)
- * VGAN VS MoCoGAN: See [video2](https://www.youtube.com/watch?v=Q7kUrPTcmdE)
+  * PG-SWGAN-3D VS PG-WGAN-3D: See [video1](https://www.youtube.com/watch?v=BvIJk01r9tw)
+  * VGAN VS MoCoGAN: See [video2](https://www.youtube.com/watch?v=Q7kUrPTcmdE)
 
