@@ -21,21 +21,20 @@ Trailerfaces sample:
 
 ## Models
 
-### SWAE: it requires some custom ops, which are stored under the cuda/ folder.
+### SWAE: it requires some custom ops, which are stored under the [cuda](https://github.com/musikisomorphie/swd/tree/master/cuda) folder.
   * Following the instructions in [install](https://github.com/musikisomorphie/swd/blob/master/cuda/install), you could compile them by yourself. If you install tensorflow by pip, one potential error can be some source files of tensorflow set the wrong relative path of cuda.h, you just need to manually change them according to your cuda path.
-  * Alternatively, you could also use the binary files directly, which is compatabile with **cuda 9.0**.
+  * Alternatively, you could also use the binary files directly, which is compatabile with **tensorflow 1.12, cuda 9.0**.
   
   
 ### SWGAN: remain updated
        
 
-### PG-SWGAN: remain updated
+### PG-SWGAN-3D: remain updated
+* Generated video frames by PG-SWGAN-3D:
+![PG-SWGAN-3D](https://github.com/musikisomorphie/swd/blob/master/pgswgan_3d.jpg)
 
-tensorflow/include/tensorflow/core/util/cuda_device_functions.h
-#include "cuda/include/cuda.h"
+* More video comparison, see the following youtube links:
+  * PG-SWGAN-3D VS PG-WGAN-3D: See [video1](https://www.youtube.com/watch?v=BvIJk01r9tw)
+  * VGAN VS MoCoGAN: See [video2](https://www.youtube.com/watch?v=Q7kUrPTcmdE)
 
-tensorflow/include/tensorflow/core/util/cuda_kernel_helper.h
-#include "cuda/include/cuda.h"
 
-tensorflow/include/tensorflow/core/util/cuda_kernel_helper.h
-#include "cuda/include/cuda_fp16.h"
