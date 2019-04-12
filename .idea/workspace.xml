@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f344f290-d09c-4094-9afd-cebf33313b2a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/swd.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/swae_64x64.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/swgan_64x64.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils.py" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/cuda/gat1_op.cu.o" afterPath="$PROJECT_DIR$/cuda/gat1_op.cu.o" />
-      <change beforePath="$PROJECT_DIR$/cuda/gat1_op.so" afterPath="$PROJECT_DIR$/cuda/gat1_op.so" />
-      <change beforePath="$PROJECT_DIR$/cuda/gat_op.cu.o" afterPath="$PROJECT_DIR$/cuda/gat_op.cu.o" />
-      <change beforePath="$PROJECT_DIR$/cuda/gat_op.so" afterPath="$PROJECT_DIR$/cuda/gat_op.so" />
-      <change beforePath="$PROJECT_DIR$/cuda/hist1_op.cu.o" afterPath="$PROJECT_DIR$/cuda/hist1_op.cu.o" />
-      <change beforePath="$PROJECT_DIR$/cuda/hist1_op.so" afterPath="$PROJECT_DIR$/cuda/hist1_op.so" />
-      <change beforePath="$PROJECT_DIR$/cuda/hist_op.cu.o" afterPath="$PROJECT_DIR$/cuda/hist_op.cu.o" />
-      <change beforePath="$PROJECT_DIR$/cuda/hist_op.so" afterPath="$PROJECT_DIR$/cuda/hist_op.so" />
-      <change beforePath="$PROJECT_DIR$/cuda/indices_op.cu.o" afterPath="$PROJECT_DIR$/cuda/indices_op.cu.o" />
-      <change beforePath="$PROJECT_DIR$/cuda/indices_op.so" afterPath="$PROJECT_DIR$/cuda/indices_op.so" />
-      <change beforePath="$PROJECT_DIR$/cuda/install" afterPath="$PROJECT_DIR$/cuda/install.sh" />
-    </list>
+    <list default="true" id="f344f290-d09c-4094-9afd-cebf33313b2a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,30 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="swae_64x64.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/swae_64x64.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="swgan_64x64.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/swgan_64x64.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8658">
-              <caret line="503" column="41" lean-forward="true" selection-start-line="503" selection-start-column="41" selection-end-line="503" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -208,9 +162,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -218,9 +170,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8658">
           <caret line="503" column="41" lean-forward="true" selection-start-line="503" selection-start-column="41" selection-end-line="503" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
