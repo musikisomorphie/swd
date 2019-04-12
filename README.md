@@ -30,3 +30,12 @@ Trailerfaces sample:
        
 
 ### PG-SWGAN: remain updated
+
+tensorflow/include/tensorflow/core/util/cuda_device_functions.h
+#include "cuda/include/cuda.h"
+
+tensorflow/include/tensorflow/core/util/cuda_kernel_helper.h
+#include "cuda/include/cuda.h"
+
+tensorflow/include/tensorflow/core/util/cuda_kernel_helper.h
+#include "cuda/include/cuda_fp16.h"
