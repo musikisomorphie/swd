@@ -2,7 +2,7 @@
 
            
 ### Papers
-* [Sliced Wasserstein Generative Models (CVPR2019 remain updated)](https://github.com/musikisomorphie/swd/)
+* [Sliced Wasserstein Generative Models (CVPR2019)](https://arxiv.org/pdf/1904.05408.pdf)
 * [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf) 
 
 
