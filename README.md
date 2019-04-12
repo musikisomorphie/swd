@@ -7,7 +7,7 @@
 
 
 ## Prerequisites
-This repo has been successfully tested on **tensorflow 1.12, cuda 9.0**. 
+This repo has been successfully tested on **tensorflow 1.10, cuda 9.0**. 
 
 * Please check the [requirements.txt](https://github.com/musikisomorphie/swd/blob/master/requirements.txt) for more details.
 
@@ -23,11 +23,13 @@ Trailerfaces sample:
 
 ### SWAE: it requires some custom ops, which are stored under the [cuda](https://github.com/musikisomorphie/swd/tree/master/cuda) folder.
   * Following the instructions in [install](https://github.com/musikisomorphie/swd/blob/master/cuda/install), you could compile them by yourself. If you install tensorflow by pip, one potential error can be some source files of tensorflow set the wrong relative path of cuda.h, you just need to manually change them according to your cuda path.
-  * Alternatively, you could also use the binary files directly, which is compatabile with **tensorflow 1.12, cuda 9.0**.
+  * Alternatively, you could also use the binary files directly, which is compatabile with **tensorflow 1.10, cuda 9.0**.
+  * Specify DATA_DIR, LOG_DIR and DIR in swae_64x64.py, then run
+    * python swae_64x64.py
   
-  
-### SWGAN: remain updated
-       
+### SWGAN: 
+   * Specify DATA_DIR, LOG_DIR and DIR in swgan_64x64.py, then run
+     * python swgan_64x64.py   
 
 ### PG-SWGAN-3D: remain updated
 * Generated video frames by PG-SWGAN-3D:
