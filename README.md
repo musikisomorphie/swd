@@ -2,7 +2,7 @@
 
            
 ### Papers
-* [Sliced Wasserstein Generative Models (CVPR2019)](https://arxiv.org/pdf/1904.05408.pdf)
+* [Sliced Wasserstein Generative Models (CVPR2019 remain updated)]()
 * [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf) 
 
 
