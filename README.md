@@ -19,12 +19,13 @@ This repo has been successfully tested on **tensorflow 1.10, cuda 9.0**.
 Trailerfaces sample:
 ![Trailerfaces sample](https://github.com/musikisomorphie/swd/blob/master/trailer_faces_samples.png)
 
-## Models
+## Standardard Training
 
-### SWAE: it requires some custom ops, which are stored under the [cuda](https://github.com/musikisomorphie/swd/tree/master/cuda) folder.
+### SWAE: it requires some custom ops, which are stored under the [cuda](https://github.com/musikisomorphie/swd/tree/master/standard_training/cuda) folder.
   * Following the instructions in [install](https://github.com/musikisomorphie/swd/blob/master/cuda/install), you could compile them by yourself. If you install tensorflow by pip, one potential error can be some source files of tensorflow set the wrong relative path of cuda.h, you just need to manually change them according to your cuda path.
   * Alternatively, you could also use the binary files directly, which is compiled with cuda8.0.
   * Specify DATA_DIR, LOG_DIR and DIR in swae_64x64.py, then run
+    * cd standard_training/
     * python swae_64x64.py
   
 ### SWGAN: 
@@ -33,7 +34,7 @@ Trailerfaces sample:
 
 ### PG-SWGAN-3D: remain updated
 * Generated video frames by PG-SWGAN-3D:
-![PG-SWGAN-3D](https://github.com/musikisomorphie/swd/blob/master/pgswgan_3d.jpg)
+![PG-SWGAN-3D](https://github.com/musikisomorphie/swd/blob/master/progressive_training/trailer_faces_samples.png)
 
 * More video comparison, see the following youtube links:
   * PG-SWGAN-3D VS PG-WGAN-3D: See [video1](https://www.youtube.com/watch?v=BvIJk01r9tw)
