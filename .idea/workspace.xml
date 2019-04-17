@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f334e3f-17d1-49ff-b568-ce836cfc4102" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat1_op.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat1_op.cu.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat1_op.cu.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat1_op.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat_op.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat_op.cu.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat_op.cu.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/gat_op.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist1_op.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist1_op.cu.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist1_op.cu.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist1_op.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist_op.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist_op.cu.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist_op.cu.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/hist_op.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/indices_op.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/indices_op.cu.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/indices_op.cu.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/indices_op.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cuda/install.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dataset.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dataset_tool.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dataset_tool_video.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5tool.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/inception_score.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/layers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/legacy.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/loss.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/metrics/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/metrics/frechet_inception_distance.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/metrics/inception_score.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/metrics/ms_ssim.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/metrics/sliced_wasserstein.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/minibatch_discrimination.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/misc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/network.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/networks.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pgswgan_3d.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sliced_wasserstein.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/swae_64x64.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/swgan_64x64.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/cifar10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/data_loader.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/inception_score.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/batchnorm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/capslayer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/cond_batchnorm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/conv1d.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/conv2d.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/deconv2d.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/deconv2d_sn.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/layernorm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/layers6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/ops/linear.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/plot.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/save_images.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tflib/small_imagenet.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tfutil.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/trailer_faces_samples.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/util_scripts.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utils.py" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/progressive_training/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-587">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/progressive_training/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="279" column="51" lean-forward="false" selection-start-line="279" selection-start-column="51" selection-end-line="279" selection-end-column="51" />
+              <folding>
+                <element signature="e#342#351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/progressive_training/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="228" column="44" lean-forward="false" selection-start-line="228" selection-start-column="44" selection-end-line="228" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jwu</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/progressive_training/config.py" />
+        <option value="$PROJECT_DIR$/progressive_training/train.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2311" />
+    <option name="y" value="61" />
+    <option name="width" value="1712" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swd" type="462c0819:PsiDirectoryNode" />
+              <item name="progressive_training" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f334e3f-17d1-49ff-b568-ce836cfc4102" name="Default" comment="" />
+      <created>1555510390080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555510390080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1920" height="1200" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/util_scripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressive_training/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="228" column="44" lean-forward="false" selection-start-line="228" selection-start-column="44" selection-end-line="228" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressive_training/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressive_training/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="279" column="51" lean-forward="false" selection-start-line="279" selection-start-column="51" selection-end-line="279" selection-end-column="51" />
+          <folding>
+            <element signature="e#342#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
