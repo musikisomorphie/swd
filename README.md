@@ -16,7 +16,7 @@ This repo has been successfully tested on **tensorflow 1.10, cuda 9.0**.
 * [TrailerFaces (remain updated)](https://github.com/musikisomorphie/swd/)
   * The dataset contains approximately 200,000 individual clips of various facial expressions, where the faces are cropped with 256x256 resolution from about 6,000 high resolution movie trailers on YouTube. We convert them to tfrecord with resolutions range from 4x4 to 256x256. More about the data processing please see [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf). 
 
-Trailerfaces sample:
+TrailerFaces sample:
 ![Trailerfaces sample](https://github.com/musikisomorphie/swd/blob/master/progressive_training/trailer_faces_samples.png)
 
 ## Standardard Training
