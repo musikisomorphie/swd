@@ -13,9 +13,9 @@ This repo has been successfully tested on **tensorflow 1.10, cuda 9.0**.
 
 * For the training data such as Cifar10, CelebA, CelebA-HQ, LSUN etc download them on the official website accordingly.
 
-* [TrailerFaces (remain updated)](https://github.com/musikisomorphie/swd/)
+* [TrailerFaces](https://github.com/musikisomorphie/swd/)
   * The dataset contains approximately 200,000 individual clips of various facial expressions, where the faces are cropped with 256x256 resolution from about 6,000 high resolution movie trailers on YouTube. We convert them to tfrecord with resolutions range from 4x4 to 256x256. More about the data processing please see [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf). 
-  * The dataset can be downloaded from https://data.vision.ee.ethz.ch/zzhiwu/trailerFaces-tfrecords.zip. Note that the dataset is dividied into 7 tfrecords (r02-r08), which are the tfrecords of the TrailerFace videos of resolution 4*4, 8*8, 16*16, 32*32, 64*64, 128*128, 256*256 respectively.
+  * The dataset can be downloaded from https://data.vision.ee.ethz.ch/zzhiwu/trailerFaces-tfrecords.zip. Note that the dataset is dividied into 7 tfrecords (r02-r08) for the videos of resolution 4*4, 8*8, 16*16, 32*32, 64*64, 128*128, 256*256 respectively.
   
 
 TrailerFaces sample:
