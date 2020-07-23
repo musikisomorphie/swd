@@ -3,7 +3,7 @@
            
 ### Papers
 * [Sliced Wasserstein Generative Models (CVPR2019)](https://arxiv.org/pdf/1706.02631.pdf)
-* [Towards high resolution video generation (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf) 
+* [Towards High Resolution Video Generation with Progressive Growing of Sliced Wasserstein GANs (Arxiv)](https://arxiv.org/pdf/1810.02419.pdf) 
 
 
 ## Prerequisites
